@@ -19,7 +19,7 @@ Please let us know if you would want to participate in earlier testing of the id
 
 ## Contact 
 
-Send us a [mail](mailto:kapacitor@factor8.dev) or ping `@f8-ptrk` in the filecoin slack for input!
+Send us a [mail](mailto:kapacitor@factor8.dev) or ping [@f8-ptrk](https://filecoinproject.slack.com/team/U062KS3HPS5) in the filecoin slack for input!
 
 # Summary
 
