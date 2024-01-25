@@ -61,7 +61,7 @@ besides logistical matters we aim to test the following mainnet mechanics on the
 
 - burn the mining reserve, a result of https://github.com/filecoin-project/FIPs/discussions/901 
 
-## Please note
+# Please note
 
 This is a very early draft of an idea that itself is the cumulation of years of discussions. We allow public access to this document to allow relevant filecoin ecosystem participants to get insight what we are working on and gather some, for now, non public input on the general idea. 
 
