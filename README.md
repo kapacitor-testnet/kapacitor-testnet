@@ -50,7 +50,7 @@ To simplify certain iterations of the testnet it might be considered that notari
 
 # Iterations
 
-## [Iteration 0 (inception)]
+## Iteration 0 (inception)
 
 the first iteration of the kapacitor testnet will fullfil a few purposes:
 
