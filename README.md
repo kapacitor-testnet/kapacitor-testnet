@@ -2,24 +2,7 @@
 
 Spawning testnets off adjusted filecoin mainnet states to enable advanced testing scenarios in the filecoin ecosystem
 
-## Please note
 
-This is a very early draft of an idea that itself is the cumulation of years of discussions. We allow public access to this document to allow relevant filecoin ecosystem participants to get insight what we are working on and gather some, for now, non public input on the general idea. 
-
-We do not call this a fork as we do not agree with the implications that come with the term itself. Filecoins unique technology allows reusing network states to spawn and maintain networks at very low costs - differentiating filecoin from almost every other blockchain network that exists today. We see clear benefits in exploring this route even with a lot of the underlying thoughts not being laid out publicly at the moment - they will eventually be written down at some point.
-
-As the idea relies heavily on fielcoin miners participating in newly spawned networks they are - for now - the main audience for this document. 
-
-## What now?
-
-We will start a new filecoin network in the coming weeks to explore the details of reusing states to spawn new networks. While we will be able to do this in private at first successive iterations of testing will need support from a broader miner audience. 
-
-Please let us know if you would want to participate in earlier testing of the idea!
-
-
-## Contact 
-
-Send us a [mail](mailto:kapacitor@factor8.dev) or ping [@f8-ptrk](https://filecoinproject.slack.com/team/U062KS3HPS5) in the filecoin slack for input!
 
 # Summary
 
@@ -63,9 +46,11 @@ A testnet without free funds cannot be participated in. To not interupt the econ
 
 To simplify certain iterations of the testnet it might be considered that notaries and non sealed datacap will be removed from a network. 
 
+
+
 # Iterations
 
-## Iteration 0 (inception)
+## [Iteration 0 (inception)]
 
 the first iteration of the kapacitor testnet will fullfil a few purposes:
 
@@ -76,5 +61,27 @@ besides logistical matters we aim to test the following mainnet mechanics on the
 
 - burn the mining reserve, a result of https://github.com/filecoin-project/FIPs/discussions/901 
 
+## Please note
+
+This is a very early draft of an idea that itself is the cumulation of years of discussions. We allow public access to this document to allow relevant filecoin ecosystem participants to get insight what we are working on and gather some, for now, non public input on the general idea. 
+
+We do not call this a fork as we do not agree with the implications that come with the term itself. Filecoins unique technology allows reusing network states to spawn and maintain networks at very low costs - differentiating filecoin from almost every other blockchain network that exists today. We see clear benefits in exploring this route even with a lot of the underlying thoughts not being laid out publicly at the moment - they will eventually be written down at some point.
+
+As the idea relies heavily on fielcoin miners participating in newly spawned networks they are - for now - the main audience for this document. 
+
+## What now?
+
+We will start a new filecoin networks in the coming weeks to explore the details of reusing states to spawn new networks. While we will be able to do this in private at first successive iterations of testing will need support from a broader miner audience. 
+
+Please let us know if you would want to participate in earlier testing of the idea!
 
 
+## Contact 
+
+Ping [@f8-ptrk](https://filecoinproject.slack.com/team/U062KS3HPS5) in the filecoin slack or utilize the facilities github provides to enable discussions. We started meeting in a small circle to move the idea forward, if you want to join pelase ping.
+
+### Meeting notes
+
+https://docs.google.com/document/d/1wbEcf9jY8iFepWsQNwYERGTpG9P-9QGJr3owIDzoW0c
+
+please request access if you need to.
