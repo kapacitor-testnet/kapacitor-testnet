@@ -78,7 +78,7 @@ Please let us know if you would want to participate in earlier testing of the id
 
 ## Contact 
 
-Ping [@f8-ptrk](https://filecoinproject.slack.com/team/U062KS3HPS5) in the filecoin slack or utilize the facilities github provides to enable discussions. We started meeting in a small circle to move the idea forward, if you want to join pelase ping.
+Ping [@f8-ptrk](https://filecoinproject.slack.com/team/U062KS3HPS5) in the filecoin slack or utilize the facilities github provides to enable discussions. We started meeting in a small circle to move the idea forward, if you want to join please ping.
 
 ### Meeting notes
 
